@@ -1,5 +1,5 @@
 import re.urllib
-#re module used here on web scrapp
+#re module used here on web scrape
 try:
 	import urllib.request
 except:
